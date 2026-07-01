@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "imu_task.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "d:\\FreeRots\\gimbal_task_haoyong - jianrong\\BSP\\ADRC\\ADRC_user.h"
+}

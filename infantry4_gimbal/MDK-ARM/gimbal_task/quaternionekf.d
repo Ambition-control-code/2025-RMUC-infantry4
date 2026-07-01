@@ -1,0 +1,12 @@
+gimbal_task\quaternionekf.o: ..\BSP\KALMAN\QuaternionEKF.c
+gimbal_task\quaternionekf.o: ..\BSP\KALMAN\QuaternionEKF.h
+gimbal_task\quaternionekf.o: ..\BSP\KALMAN\kalman_filter.h
+gimbal_task\quaternionekf.o: D:\MDK51\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal_task\quaternionekf.o: D:\MDK51\ARM\ARMCC\Bin\..\include\stdlib.h
+gimbal_task\quaternionekf.o: ../DSP/arm_math.h
+gimbal_task\quaternionekf.o: ../Drivers/CMSIS/Include/core_cm4.h
+gimbal_task\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_version.h
+gimbal_task\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+gimbal_task\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+gimbal_task\quaternionekf.o: D:\MDK51\ARM\ARMCC\Bin\..\include\string.h
+gimbal_task\quaternionekf.o: D:\MDK51\ARM\ARMCC\Bin\..\include\math.h
